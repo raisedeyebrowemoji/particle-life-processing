@@ -1,0 +1,23 @@
+------------------
+----- CONFIG -----
+------------------
+
+--- GRAPHICS
+Particle radius: 5
+
+--- WINDOW (Only applies when the program starts)
+Width: 1200
+Height: 800
+
+--- PARTICLES
+Types: 6
+Particles: 1200
+
+--- PHYSICS
+Friction: 0.25
+Force coefficient: 0.05
+
+--- RANDOMIZER LIMITS
+Attraction radius: 75, 300
+Attraction value: -2, 2
+Min distance: 20, 50
