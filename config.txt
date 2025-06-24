@@ -2,6 +2,13 @@
 ----- CONFIG -----
 ------------------
 
+--- INSTRUCTIONS: 
+--- c to reimport config (imports all these settings, applies some immediately)
+--- s to respawn particles (if config was reimported, applies number of types and paricles)
+--- r to randomize interations (if config was reimported, applies randomiser limits)
+--- press in this order to reimport these settings completely
+--- figure it out yourself lmao
+
 --- GRAPHICS
 Particle radius: 5
 
